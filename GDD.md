@@ -2,15 +2,15 @@
 
 ## Índice
 
-1. [Introducción](https://github.com/MRTN0624/Neon-Racer/blob/main/READMEejemplo.md#1-introducci%C3%B3n)  
-2. [Especificaciones básicas](https://github.com/MRTN0624/Neon-Racer/blob/main/READMEejemplo.md#2-especificaciones-b%C3%A1sicas)  
-3. [Jugabilidad](https://github.com/MRTN0624/Neon-Racer/blob/main/READMEejemplo.md#3-jugabilidad)  
-4. [Narrativa](https://github.com/MRTN0624/Neon-Racer/blob/main/READMEejemplo.md#4-narrativa)  
-5. [Imagen y diseño visual](https://github.com/MRTN0624/Neon-Racer/blob/main/READMEejemplo.md#5-imagen-y-dise%C3%B1o-visual)  
-6. [Sonido](https://github.com/MRTN0624/Neon-Racer/blob/main/READMEejemplo.md#6-sonido)  
-7. [Interfaz y diagrama de flujo](https://github.com/MRTN0624/Neon-Racer/blob/main/READMEejemplo.md#7-interfaz-y-diagrama-de-flujo)  
-8. [Comunicación y marketing](https://github.com/MRTN0624/Neon-Racer/blob/main/READMEejemplo.md#8-comunicaci%C3%B3n-y-marketing)  
-9. [Referencias](https://github.com/MRTN0624/Neon-Racer/blob/main/READMEejemplo.md#9-referencias)
+1. [Introducción](#1-introducción)
+2. [Especificaciones básicas](#2-especificaciones-básicas)
+3. [Jugabilidad](#3-jugabilidad)
+4. [Narrativa](#4-narrativa)
+5. [Imagen y diseño visual](#5-imagen-y-diseño-visual)
+6. [Sonido](#6-sonido)
+7. [Interfaz y diagrama de flujo](#7-interfaz-y-diagrama-de-flujo)
+8. [Comunicación y marketing](#8-comunicación-y-marketing)
+9. [Referencias](#9-referencias)
 
 Nota para el alumnado: este documento es una plantilla de ejemplo. Sustituid todos los textos AAA, BBB, CCC... y las imágenes de img/ por vuestro contenido. Los bloques como este, que empiezan por *Rúbrica*, indican qué criterio de evaluación cubre cada apartado: borradlos antes de entregar. Límite orientativo: 3500 palabras. Todo el documento debe estar en castellano (mezclar idiomas penaliza).
 
