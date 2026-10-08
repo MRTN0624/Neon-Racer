@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="img/Neon_Racer_Logo_Transparent.png" alt="Logotipo de AAA" width="400">
+  <img src="img/Neon_Racer_Logo_Transparent.png" alt="Logotipo de Neon Racer" width="400">
 </p>
 
 # Neon Racer — Nombre del juego
 
 **Juegos en Red · Grado en Diseño y Desarrollo de Videojuegos · URJC · Curso 2026/27**<br>
-**Grupo X**
+**Grupo F**
 
 ## Descripción de la temática
 
