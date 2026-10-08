@@ -187,7 +187,7 @@ Figura 5\. Moodboard con las referencias visuales.
 ### 5.6. Bocetos de personajes y pantallas
  <img src="img/Characters.jpg" alt="BocetosPersonajes" width="400"> 
 Rúbrica — Imagen / Bocetos: interfaz de menú, pantallas y personajes.  
-Los bocetos de los personajes se encuentran en el apartado [4.2](https://github.com/MRTN0624/Neon-Racer/blob/main/READMEejemplo.md#42-personajes) y los de las pantallas en el apartado [7.1](https://github.com/MRTN0624/Neon-Racer/blob/main/READMEejemplo.md#71-pantallas).  
+Los bocetos de los personajes se encuentran en el apartado [4.2](#42-personajes) y los de las pantallas en el apartado [7.1](#71-pantallas).  
 ---
 
 ## 6\. Sonido
@@ -234,6 +234,7 @@ Rúbrica — Documento / Diagrama de flujo. Podéis usar Mermaid (GitHub lo rend
 Opción 1 — Mermaid (se dibuja automáticamente en GitHub):  
 Opción 2 — Imagen exportada desde draw.io, Excalidraw, Figma...:  
 ![Diagrama de flujo del juego]()  
+
 Figura 9\. Diagrama de flujo entre pantallas.  
 
 
@@ -253,9 +254,11 @@ Rúbrica — Comunicación / Marketing.
 ## 9\. Referencias
 
 Rúbrica — Documento / Referencias. Usad un formato consistente (p. ej. APA) y citadlas en el texto con \[1\], \[2\]...  
-\[1\] AAA, A. (Año). Título de la obra. Editorial / Estudio. URL  
-\[2\] BBB, B. (Año). Título del artículo. Revista, volumen(número), páginas. [https\://doi.org/AAA](https://doi.org/AAA)  
-\[3\] Schell, J. (2019). The Art of Game Design: A Book of Lenses (3.ª ed.). CRC Press.  
-\[4\] Phaser Studio. (s. f.). Phaser 3 Documentation. [https\://docs.phaser.io](https://docs.phaser.io/)
+[1] calman160. (2014). Tron Legacy: The Grid 8 bit [Vídeo]. YouTube.
+https://youtu.be/TtlLKbFMeuU
 
-### \[5\] Recursos de terceros utilizados (sprites, música, fuentes): AAA — autor — licencia — URL.1
+[2] PiMan. (2011). Tron Legacy 8 bit Extended Version [Vídeo]. YouTube.
+https://youtu.be/zljRr4nFLIc
+
+[3] XxXTronLegacyXxX. (2011). Tron Legacy 8-Bit End Credits Theme Extended [Vídeo]. YouTube.
+https://youtu.be/s4p-D93jydw
