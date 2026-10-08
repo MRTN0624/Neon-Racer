@@ -1,6 +1,6 @@
 Juegos en Red - Fase 1
-Grupo: X
-Juego: AAA
+Grupo: J
+Juego: Neon Racer
 
 Integrantes:
 - Alumna Uno Ejemplo    - a.uno.20XX@alumnos.urjc.es    - GitHub: alumno1-ejemplo
