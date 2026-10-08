@@ -105,8 +105,8 @@ El escenario representa un. Se compone de 3 zonas:
 2. Zona Azul: El fondo es negro con bordes azules.  
 3. Zona Naranja: El fondo es negro con bordes naranjas.
 
-![Mapa del escenario]()  
 <img src="img/Mapa.jpg" alt="Mapa1" width="400"> 
+
 Figura 2\. Mapa del escenario con zonas de aparición, plataformas y obstáculos.  
 ---
 
