@@ -18,8 +18,8 @@ Aquí se listan los integrantes que forman el equipo de desarrollo para este pro
   - 📧 Correo institucional: `[j.arcas.2024@alumnos.urjc.es]`
   - 🐙 GitHub: [@usuario2](https://github.com/usuario2)
 
-- **[Nombre Apellido 3]**
-  - 📧 Correo institucional: `[correo@alumnos.urjc.es / @...]`
+- **Adriel Nava de Santos**
+  - 📧 Correo institucional: `[a.nava.2024@alumnos.urjc.es]`
   - 🐙 GitHub: [@usuario3](https://github.com/usuario3)
 
 - **[Nombre Apellido 4]**
