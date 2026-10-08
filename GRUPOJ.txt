@@ -1,6 +1,6 @@
 Juegos en Red - Fase 1
 Grupo: J
-Juego: Neon Racer
+Juego: Neon Racers
 
 Integrantes:
 - Javier Arcas Calvo        - j.arcas.2024@alumnos.urjc.es    - GitHub: https://github.com/nemsOmega
@@ -8,4 +8,4 @@ Integrantes:
 - Adriel Navas De Santos    - a.nava.2024@alumnos.urjc.es     - GitHub: https://github.com/Multiestar
 - Felipe Owen Zhu Zhang     - fo.zhu.2023@alumnos.urjc.es     - GitHub: https://github.com/FelipeOwenZZ
 
-Repositorio GitHub: https://github.com/MRTN0624/Neon-Racer
+Repositorio GitHub: https://github.com/MRTN0624/Neon-Racers

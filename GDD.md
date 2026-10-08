@@ -20,7 +20,7 @@ Nota para el alumnado: este documento es una plantilla de ejemplo. Sustituid tod
 
 ### 1.1. Concepto del juego
 
-Neon Racer es un juego de PVP para dos jugadores en el que los jugadores tienen que hacer que el otro se choque con su estela para poder ganar. La idea principal es recrear el famoso juego de Tron y añadirle unos power ups que nos diferencien del real.
+Neon Racers es un juego de PVP para dos jugadores en el que los jugadores tienen que hacer que el otro se choque con su estela para poder ganar. La idea principal es recrear el famoso juego de Tron y añadirle unos power ups que nos diferencien del real.
 
 ### 1.2. Propuesta de valor
 
@@ -31,7 +31,7 @@ Neon Racer es un juego de PVP para dos jugadores en el que los jugadores tienen 
 * Característica diferencial 3: Power-Ups de eliminar trazas.  
 * Característica diferencial 4: Power-Ups de Congelar al otro jugador.
 
- <img src="img/Neon_Racer_Logo_Transparent.png" alt="Logotipo de Neon Racer" width="400">  
+ <img src="img/Neon_Racers_Logo_Transparent.png" alt="Logotipo de Neon Racers" width="400">  
 Figura 1\. Imagen promocional del juego.  
 ---
 
@@ -39,7 +39,7 @@ Figura 1\. Imagen promocional del juego.
 
 | Aspecto | RetroWave |
 | :---- | :---- |
-| Título | Neon Racer |
+| Título | Neon Racers |
 | Género | Acción |
 | Número de jugadores | 2 (en red, tiempo real) |
 | Público objetivo | Todos los públicos |
@@ -125,7 +125,7 @@ En el Madrid distópico de 2043, el *Neon Circuit* de Gran Vía es el espectácu
 * Edad y origen: 29 años. Francés con raíces alemanas.  
 * Personalidad: Narcisista, impulsivo y con un ego desproporcionado.  
 * Motivación: Demostrar su superioridad absoluta y humillar a su eterno rival en el circuito.  
-* Trasfondo: Hijo de una familia con alto poder adquisitivo, Carlos creció con la creencia de ser un ser superior destinado a la grandeza. A los 14 años comenzó a practicar Neon Racer, donde descubrió tener un talento abismal. Ganó todos los torneos en los que participó, hasta que, con 19 años, sufrió su primera derrota al enfrentarse a Javier en la primera ronda del torneo de Roma, donde fue aplastado de una forma humillante. Incapaz de encajar ese fracaso, convirtió su pasión en una obsesión personal hacia Javier, dispuesto a perseguirlo y vencerlo eternamente.
+* Trasfondo: Hijo de una familia con alto poder adquisitivo, Carlos creció con la creencia de ser un ser superior destinado a la grandeza. A los 14 años comenzó a practicar Neon Racers, donde descubrió tener un talento abismal. Ganó todos los torneos en los que participó, hasta que, con 19 años, sufrió su primera derrota al enfrentarse a Javier en la primera ronda del torneo de Roma, donde fue aplastado de una forma humillante. Incapaz de encajar ese fracaso, convirtió su pasión en una obsesión personal hacia Javier, dispuesto a perseguirlo y vencerlo eternamente.
 
 #### Javier (Jugador 2\)
 
@@ -134,7 +134,7 @@ En el Madrid distópico de 2043, el *Neon Circuit* de Gran Vía es el espectácu
 * Edad / origen: 33 años. Español con raíces nigerianas.  
 * Personalidad: Humilde, metódico y trabajador.  
 * Motivación: Dedicarse profesionalmente al deporte que ama para asegurar su futuro.  
-* Trasfondo: Criado en un barrio humilde de Sevilla, Javier se enamoró de Neon Racer a los 4 años tras ver una retransmisión por televisión. Pasó toda su infancia imaginando como sería competir en los circuitos de neón mientras ahorraba euro a euro durante casi dos décadas. Con 22 años finalmente consiguió su primera moto de competición y comenzó a practicar el deporte. Con 23 años, tan solo un año después, participó por primera vez en un torneo, el torneo de Roma. Allí, eliminó en la primera ronda a Carlos, sorprendiendo al mundo eliminando a su gran favorito, iniciando así una rivalidad que pasaría a ser considerada historia del deporte mundial. Desde entonces, ha mantenido una carrera constante de esfuerzo y sacrificio.
+* Trasfondo: Criado en un barrio humilde de Sevilla, Javier se enamoró de Neon Racers a los 4 años tras ver una retransmisión por televisión. Pasó toda su infancia imaginando como sería competir en los circuitos de neón mientras ahorraba euro a euro durante casi dos décadas. Con 22 años finalmente consiguió su primera moto de competición y comenzó a practicar el deporte. Con 23 años, tan solo un año después, participó por primera vez en un torneo, el torneo de Roma. Allí, eliminó en la primera ronda a Carlos, sorprendiendo al mundo eliminando a su gran favorito, iniciando así una rivalidad que pasaría a ser considerada historia del deporte mundial. Desde entonces, ha mantenido una carrera constante de esfuerzo y sacrificio.
 
 ---
 
@@ -246,10 +246,10 @@ Rúbrica — Comunicación / Marketing.
 
 * Público y mensaje clave: Todos los públicos. “Compite con tu persona favorita en cualquier lugar del mundo en una experiencia breve y amena”.  
 * Canales: Cuenta de Youtube, Instagram y X.
-  **Canal oficial de YouTube:** [Neon Racer en YouTube](https://www.youtube.com/@NeonRacerOriginal)
+  **Canal oficial de YouTube:** [Neon Racers en YouTube](https://www.youtube.com/@NeonRacerOriginal)
 * Calendario: Devlog semanal en Youtube y posts cada 2 o 3 días en X e Instagram. Lanzamiento el 15 de abril de 2027\.  
 * Material: tráiler, capturas, GIF de jugabilidad, press kit.  
-* Eslogan: “Neon Racer, donde y cuando quieras”.
+* Eslogan: “Neon Racers, donde y cuando quieras”.
 
 ---
 
