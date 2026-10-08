@@ -14,7 +14,7 @@ Neon Racer es un juego en 2D con vista cenital donde 2 jugadores en red controla
 
 | Nombre y apellidos | Correo URJC | GitHub |
 | :--- | :--- | :--- |
-| Javier Arcas Calvo | j.arcas.2024@alumnos.urjc.es | `@alumno1-ejemplo` |
+| Javier Arcas Calvo | j.arcas.2024@alumnos.urjc.es | `https://github.com/nemsOmega` |
 | Alumno Dos Ejemplo | a.dos.20XX@alumnos.urjc.es | `@alumno2-ejemplo` |
 | Alumna Tres Ejemplo | a.tres.20XX@alumnos.urjc.es | `@alumno3-ejemplo` |
 | Alumno Cuatro Ejemplo | a.cuatro.20XX@alumnos.urjc.es | `@alumno4-ejemplo` |
