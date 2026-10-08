@@ -9,15 +9,14 @@
 
 ## Descripción de la temática
 
-Neon Racer es un juego de AAA en 2D para dos jugadores en red en el que AAA AAA AAA AAA. Ambientado en AAA, los jugadores deben AAA AAA AAA para AAA AAA.
-
+Neon Racer es un juego en 2D con vista cenital donde 2 jugadores en red, que controlan cada uno una moto que deja una estela tras su paso. Inspirado en el tron clásico. Los jugadores deben evitar tocar la estela del rival para evitar ser destruidos.
 ## Equipo de desarrollo
 
 | Nombre y apellidos | Correo URJC | GitHub |
 | :--- | :--- | :--- |
 | Alumna Uno Ejemplo | a.uno.20XX@alumnos.urjc.es | `@alumno1-ejemplo` |
 | Alumno Dos Ejemplo | a.dos.20XX@alumnos.urjc.es | `@alumno2-ejemplo` |
-| Adriel Nava de Santos | a.nava.2024@alumnos.urjc.es | `@Multiestar` |
+| Alumna Tres Ejemplo | a.tres.20XX@alumnos.urjc.es | `@alumno3-ejemplo` |
 | Alumno Cuatro Ejemplo | a.cuatro.20XX@alumnos.urjc.es | `@alumno4-ejemplo` |
 
 **Repositorio:** `https://github.com/<usuario>/<repositorio>`
