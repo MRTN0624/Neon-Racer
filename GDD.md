@@ -244,7 +244,8 @@ Figura 9\. Diagrama de flujo entre pantallas.
 Rúbrica — Comunicación / Marketing.
 
 * Público y mensaje clave: Todos los públicos. “Compite con tu persona favorita en cualquier lugar del mundo en una experiencia breve y amena”.  
-* Canales: Cuenta de Youtube, Instagram y X.  
+* Canales: Cuenta de Youtube, Instagram y X.
+  **Canal oficial de YouTube:** [Neon Racer en YouTube](https://www.youtube.com/@NeonRacerOriginal)
 * Calendario: Devlog semanal en Youtube y posts cada 2 o 3 días en X e Instagram. Lanzamiento el 15 de abril de 2027\.  
 * Material: tráiler, capturas, GIF de jugabilidad, press kit.  
 * Eslogan: “Neon Racer, donde y cuando quieras”.
