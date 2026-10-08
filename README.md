@@ -2,7 +2,7 @@
 
 ## 📝 Descripción de la Temática
 
-Un juego en 2D con vista cenital donde 2 jugadores controlan cada 1 una moto que deja una estela. Los jugadores deben evitar tocar la estela del rival
+Un juego en 2D con vista cenital donde 2 jugadores controlan cada 1 una moto que deja una estela. Los jugadores deben evitar tocar la estela del rival.
 
 ---
 
