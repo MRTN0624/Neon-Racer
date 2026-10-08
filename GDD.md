@@ -20,7 +20,7 @@ Nota para el alumnado: este documento es una plantilla de ejemplo. Sustituid tod
 
 ### 1.1. Concepto del juego
 
-Neon Racers es un juego de PVP para dos jugadores en el que los jugadores tienen que hacer que el otro se choque con su estela para poder ganar. La idea principal es recrear el famoso juego de Tron y añadirle unos power ups que nos diferencien del real.
+Neon Racer es un juego de PVP para dos jugadores en el que los jugadores tienen que hacer que el otro se choque con su estela para poder ganar. La idea principal es recrear el famoso juego de Tron y añadirle unos power ups que nos diferencien del real.
 
 ### 1.2. Propuesta de valor
 
