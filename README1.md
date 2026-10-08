@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/logo.png" alt="Logotipo de AAA" width="400">
+  <img src="img/Neon_Racer_Logo_Transparent" alt="Logotipo de AAA" width="400">
 </p>
 
 # Neon Racer — Nombre del juego
