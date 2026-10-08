@@ -12,8 +12,6 @@
 8. [Comunicación y marketing](#8-comunicación-y-marketing)
 9. [Referencias](#9-referencias)
 
-Nota para el alumnado: este documento es una plantilla de ejemplo. Sustituid todos los textos AAA, BBB, CCC... y las imágenes de img/ por vuestro contenido. Los bloques como este, que empiezan por *Rúbrica*, indican qué criterio de evaluación cubre cada apartado: borradlos antes de entregar. Límite orientativo: 3500 palabras. Todo el documento debe estar en castellano (mezclar idiomas penaliza).
-
 ---
 
 ## 1\. Introducción
