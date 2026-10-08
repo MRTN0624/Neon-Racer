@@ -183,10 +183,9 @@ Figura 5\. Moodboard con las referencias visuales.
 * Retro wave (referencia cultural): nostalgia de la cultura pop y la tecnología de los años 80\.
  <img src="img/synthwave_ocean.jpg" alt="Foto de un oceano estilo retro synthwave" width="400">
  <img src="img/dark_synthwave.jpg" alt="Foto estilo dark synthwave" width="400">
-* Tron (1982) (videojuego y película): Acción
+* Tron (1982) (película): Acción
  <img src="img/tronOriginal.jpg" alt="Foto película tron 1982" width="400">
  <img src="img/tronOriginalMoviePoster.jpg" alt="Foto película tron 1982" width="400">
- <img src="img/tron1982FotoJuego.gif" alt="Foto juego tron 1982" width="400">
 ### 5.6. Bocetos de personajes y pantallas
 
 Rúbrica — Imagen / Bocetos: interfaz de menú, pantallas y personajes.  
