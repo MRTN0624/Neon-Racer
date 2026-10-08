@@ -9,7 +9,7 @@
 
 ## Descripción de la temática
 
-AAA es un juego de AAA en 2D para dos jugadores en red en el que AAA AAA AAA AAA. Ambientado en AAA, los jugadores deben AAA AAA AAA para AAA AAA.
+Neon Racer es un juego de AAA en 2D para dos jugadores en red en el que AAA AAA AAA AAA. Ambientado en AAA, los jugadores deben AAA AAA AAA para AAA AAA.
 
 ## Equipo de desarrollo
 
