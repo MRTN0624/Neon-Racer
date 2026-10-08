@@ -8,4 +8,4 @@ Integrantes:
 - Adriel Navas De Santos    - a.nava.2024@alumnos.urjc.es     - GitHub: https://github.com/Multiestar
 - Felipe Owen Zhu Zhang     - fo.zhu.2023@alumnos.urjc.es     - GitHub: https://github.com/FelipeOwenZZ
 
-Repositorio GitHub: https://github.com/<usuario>/<repositorio>
+Repositorio GitHub: https://github.com/MRTN0624/Neon-Racer
