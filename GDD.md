@@ -105,8 +105,7 @@ El escenario representa un. Se compone de 3 zonas:
 
 <img src="img/Mapa.jpg" alt="Mapa1" width="400"> 
 
-Figura 2\. Mapa del escenario con zonas de aparición, plataformas y obstáculos.  
----
+Figura 2\. Mapa del escenario con zonas de aparición, plataformas y obstáculos.
 
 ## 4\. Narrativa
 
@@ -236,7 +235,7 @@ Opción 1 — Mermaid (se dibuja automáticamente en GitHub):
 Opción 2 — Imagen exportada desde draw.io, Excalidraw, Figma...:  
 ![Diagrama de flujo del juego]()  
 Figura 9\. Diagrama de flujo entre pantallas.  
----
+
 
 ## 8\. Comunicación y marketing
 
