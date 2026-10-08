@@ -2,7 +2,7 @@
   <img src="img/logo.png" alt="Logotipo de AAA" width="400">
 </p>
 
-# AAA — Nombre del juego
+# Neon Racer — Nombre del juego
 
 **Juegos en Red · Grado en Diseño y Desarrollo de Videojuegos · URJC · Curso 2026/27**<br>
 **Grupo X**
