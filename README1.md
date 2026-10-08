@@ -19,7 +19,7 @@ Neon Racer es un juego en 2D con vista cenital donde 2 jugadores en red controla
 | Alumna Tres Ejemplo | a.tres.20XX@alumnos.urjc.es | `@alumno3-ejemplo` |
 | Alumno Cuatro Ejemplo | a.cuatro.20XX@alumnos.urjc.es | `@alumno4-ejemplo` |
 
-**Repositorio:** `https://github.com/<usuario>/<repositorio>`
+**Repositorio:** `https://github.com/MRTN0624/Neon-Racer`
 
 **Licencia:** [Apache 2.0](LICENSE)
 
