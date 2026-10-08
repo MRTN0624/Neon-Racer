@@ -12,7 +12,7 @@ Aquí se listan los integrantes que forman el equipo de desarrollo para este pro
 
 - **Felipe Owen Zhu Zhang**
   - 📧 Correo institucional: `[fo.zhu.2023@alumnos.urjc.es]`
-  - 🐙 GitHub: [@usuario1](https://github.com/usuario1)
+  - 🐙 GitHub: [@usuario1](https://github.com/FelipeOwenZZ))
 
 - **Javier Arcas Calvo**
   - 📧 Correo institucional: `[j.arcas.2024@alumnos.urjc.es]`
