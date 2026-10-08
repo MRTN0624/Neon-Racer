@@ -22,7 +22,7 @@ Nota para el alumnado: este documento es una plantilla de ejemplo. Sustituid tod
 
 Neon Racers es un juego de PVP para dos jugadores en el que los jugadores tienen que hacer que el otro se choque con su estela para poder ganar. La idea principal es recrear el famoso juego de Tron y añadirle unos power ups que nos diferencien del real.
 
-### .2. Propuesta de valor
+### 1.2. Propuesta de valor
 
 ¿Qué hace diferente a vuestro juego? Nuestro juego se diferencia de otros por la inclusión de poderes o “power-ups” con distintos efectos.
 
