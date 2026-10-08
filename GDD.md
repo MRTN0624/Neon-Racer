@@ -219,8 +219,6 @@ Figura 8\. Pantalla de ajustes (izquierda) y fin de partida (derecha).
 
 ### 7.2. Diagrama de flujo
 
-Opción 1 — Mermaid (se dibuja automáticamente en GitHub):  
-Opción 2 — Imagen exportada desde draw.io, Excalidraw, Figma...:  
 ![Diagrama de flujo del juego]()  
 
 Figura 9\. Diagrama de flujo entre pantallas.  
