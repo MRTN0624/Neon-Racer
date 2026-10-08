@@ -10,8 +10,8 @@
 
 Aquí se listan los integrantes que forman el equipo de desarrollo para este proyecto:
 
-- **[Nombre Apellido 1]**
-  - 📧 Correo institucional: `[correo@alumnos.urjc.es / @...]`
+- **Felipe Owen Zhu Zhang**
+  - 📧 Correo institucional: `[fo.zhu.2023@alumnos.urjc.es]`
   - 🐙 GitHub: [@usuario1](https://github.com/usuario1)
 
 - **Javier Arcas Calvo**
