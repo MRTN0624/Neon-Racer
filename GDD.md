@@ -22,7 +22,7 @@ Nota para el alumnado: este documento es una plantilla de ejemplo. Sustituid tod
 
 Neon Racers es un juego de PVP para dos jugadores en el que los jugadores tienen que hacer que el otro se choque con su estela para poder ganar. La idea principal es recrear el famoso juego de Tron y añadirle unos power ups que nos diferencien del real.
 
-### 1.2. Propuesta de valor
+### .2. Propuesta de valor
 
 ¿Qué hace diferente a vuestro juego? Nuestro juego se diferencia de otros por la inclusión de poderes o “power-ups” con distintos efectos.
 
@@ -176,10 +176,17 @@ Rúbrica — Imagen / Inspiración: referentes artísticos y culturales y víncu
 ![Moodboard de inspiración]()  
 Figura 5\. Moodboard con las referencias visuales.
 
-* Tron Legacy (2010) (película): Ciencia ficción/Acción.  
-* Retro wave (referencia cultural): nostalgia de la cultura pop y la tecnología de los años 80\.  
-* Tron (1982) (videojuego): Acción
-
+* Tron Legacy (2010) (película): Ciencia ficción/Acción.
+ <img src="img/tronlegacy_lightcycle.jpg" alt="Tron Legacy foto" width="400">
+ <img src="img/tronlegacy_lightcycle2.jpg" alt="Tron Legacy foto" width="400">
+ <img src="img/tronlegacy_lightcyle1.jpg" alt="Tron Legacy foto" width="400">
+* Retro wave (referencia cultural): nostalgia de la cultura pop y la tecnología de los años 80\.
+ <img src="img/synthwave_ocean.jpg" alt="Foto de un oceano estilo retro synthwave" width="400">
+ <img src="img/dark_synthwave.jpg" alt="Foto estilo dark synthwave" width="400">
+* Tron (1982) (videojuego y película): Acción
+ <img src="img/tronOriginal.jpg" alt="Foto película tron 1982" width="400">
+ <img src="img/tronOriginalMoviePoster.jpg" alt="Foto película tron 1982" width="400">
+ <img src="img/tron1982FotoJuego.gif" alt="Foto juego tron 1982" width="400">
 ### 5.6. Bocetos de personajes y pantallas
 
 Rúbrica — Imagen / Bocetos: interfaz de menú, pantallas y personajes.  
