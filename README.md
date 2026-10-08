@@ -2,7 +2,7 @@
 
 ## 📝 Descripción de la Temática
 
-[Escribe aquí una descripción breve y atractiva de la temática del juego. Por ejemplo: "Un juego de plataformas en 2D ambientado en un mundo ciberpunk donde el jugador debe hackear sistemas para avanzar", o "Un juego de estrategia por turnos basado en la mitología nórdica".]
+Un juego en 2D con vista cenital donde 2 jugadores controlan cada 1 una moto que deja una estela. Los jugadores deben evitar tocar la estela del rival
 
 ---
 
