@@ -89,14 +89,11 @@ El juego contabiliza el número de partidas que ha ganado cada jugador. Este con
 
 ### 3.4. Físicas y dificultad
 
-Rúbrica — Jugabilidad / Físicas: físicas variadas con elementos de dificultad.
-
 * Colisiones: Las estelas colisionan con los jugadores (el jugador pierde al colisionar con la estela). Los jugadores también colisionan entre ellos (ambos jugadores pierden). Los jugadores colisionan con las paredes del escenario (el jugador se queda parado hasta cambiar de dirección).  
 * Progresión de la dificultad: a medida que avanza la partida, aumenta la frecuencia en la que aparecen los power-ups (Aumenta un 50% cada 30 segundos de partida, hasta un máximo de 200%).
 
 ### 3.5. Escenario
 
-Rúbrica — Jugabilidad / Calidad del escenario.  
 El escenario representa un. Se compone de 3 zonas:
 
 1. Zona Roja: El fondo es negro con bordes rojos.  
@@ -139,19 +136,16 @@ En el Madrid distópico de 2043, el *Neon Circuit* de Gran Vía es el espectácu
 
 ### 5.1. Logotipo
 
-Rúbrica — Imagen / Logotipo.  
 ![][image1]  
 Figura 3\. Logotipo del juego. Tipografía: AAA. Concepto: AAA AAA AAA.
 
 ### 5.2. Estilo visual
 
-Rúbrica — Imagen / Estilo visual: pixel art.  
 El juego utiliza un estilo pixel art de 64x64 píxeles porque queremos detallar los modelos de las motos y sus corredores.  
 El juego utiliza un estilo Retro Wave.
 
 ### 5.3. Uso de colores
 
-Rúbrica — Imagen / Descripción visual: uso de colores vibrantes junto a negros absolutos.  
 ![Paleta de colores]()  
 Figura 4\. Paleta de colores del juego.
 
@@ -162,7 +156,6 @@ Figura 4\. Paleta de colores del juego.
 
 ### 5.4. Aspectos técnicos: cámara y representación
 
-Rúbrica — Imagen / Aspectos técnicos: uso de cámara y 2D/3D.
 
 * Representación: 2D, con vista cenital  
 * Cámara: Fija, mostrando todo el escenario.  
@@ -170,7 +163,6 @@ Rúbrica — Imagen / Aspectos técnicos: uso de cámara y 2D/3D.
 
 ### 5.5. Inspiración artística y cultural
 
-Rúbrica — Imagen / Inspiración: referentes artísticos y culturales y vínculo con otros trabajos.  
 ![Moodboard de inspiración]()  
 Figura 5\. Moodboard con las referencias visuales.
 
@@ -186,13 +178,10 @@ Figura 5\. Moodboard con las referencias visuales.
  <img src="img/tronOriginalMoviePoster.jpg" alt="Foto película tron 1982" width="400">
 ### 5.6. Bocetos de personajes y pantallas
  <img src="img/Characters.jpg" alt="BocetosPersonajes" width="400"> 
-Rúbrica — Imagen / Bocetos: interfaz de menú, pantallas y personajes.  
 Los bocetos de los personajes se encuentran en el apartado [4.2](#42-personajes) y los de las pantallas en el apartado [7.1](#71-pantallas).  
 ---
 
 ## 6\. Sonido
-
-Rúbrica — Sonido: música y efectos.
 
 ### 6.1. Banda sonora
 
@@ -230,7 +219,6 @@ Figura 8\. Pantalla de ajustes (izquierda) y fin de partida (derecha).
 
 ### 7.2. Diagrama de flujo
 
-Rúbrica — Documento / Diagrama de flujo. Podéis usar Mermaid (GitHub lo renderiza directamente) o una imagen exportada.  
 Opción 1 — Mermaid (se dibuja automáticamente en GitHub):  
 Opción 2 — Imagen exportada desde draw.io, Excalidraw, Figma...:  
 ![Diagrama de flujo del juego]()  
@@ -239,8 +227,6 @@ Figura 9\. Diagrama de flujo entre pantallas.
 
 
 ## 8\. Comunicación y marketing
-
-Rúbrica — Comunicación / Marketing.
 
 * Público y mensaje clave: Todos los públicos. “Compite con tu persona favorita en cualquier lugar del mundo en una experiencia breve y amena”.  
 * Canales: Cuenta de Youtube, Instagram y X.
@@ -253,7 +239,6 @@ Rúbrica — Comunicación / Marketing.
 
 ## 9\. Referencias
 
-Rúbrica — Documento / Referencias. Usad un formato consistente (p. ej. APA) y citadlas en el texto con \[1\], \[2\]...  
 [1] calman160. (2014). Tron Legacy: The Grid 8 bit [Vídeo]. YouTube.
 https://youtu.be/TtlLKbFMeuU
 
