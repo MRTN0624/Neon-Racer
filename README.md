@@ -9,7 +9,7 @@
 
 ## Descripción de la temática
 
-Neon Racers es un juego en 2D con vista cenital donde 2 jugadores en red controlan cada uno una moto que deja una estela tras su paso. Inspirado en el tron clásico. Los jugadores deben evitar tocar la estela del rival para evitar ser destruidos.
+Neon Racers es un juego en 2D con vista cenital donde 2 jugadores en red controlan cada uno una moto que deja una estela tras su paso. Inspirado en el Tron clásico. Los jugadores deben evitar tocar la estela del rival para evitar ser destruidos.
 ## Equipo de desarrollo
 
 | Nombre y apellidos | Correo URJC | GitHub |
