@@ -3,7 +3,7 @@ Grupo: J
 Juego: Neon Racer
 
 Integrantes:
-- Alumna Uno Ejemplo    - a.uno.20XX@alumnos.urjc.es    - GitHub: alumno1-ejemplo
+- Javier Arcas Calvo    - a.uno.20XX@alumnos.urjc.es    - GitHub: alumno1-ejemplo
 - Alumno Dos Ejemplo    - a.dos.20XX@alumnos.urjc.es    - GitHub: alumno2-ejemplo
 - Alumna Tres Ejemplo   - a.tres.20XX@alumnos.urjc.es   - GitHub: alumno3-ejemplo
 - Alumno Cuatro Ejemplo - a.cuatro.20XX@alumnos.urjc.es - GitHub: alumno4-ejemplo
