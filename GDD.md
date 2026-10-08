@@ -106,6 +106,7 @@ El escenario representa un. Se compone de 3 zonas:
 3. Zona Naranja: El fondo es negro con bordes naranjas.
 
 ![Mapa del escenario]()  
+<img src="img/Mapa.jpg" alt="Mapa1" width="400"> 
 Figura 2\. Mapa del escenario con zonas de aparición, plataformas y obstáculos.  
 ---
 
@@ -187,7 +188,7 @@ Figura 5\. Moodboard con las referencias visuales.
  <img src="img/tronOriginal.jpg" alt="Foto película tron 1982" width="400">
  <img src="img/tronOriginalMoviePoster.jpg" alt="Foto película tron 1982" width="400">
 ### 5.6. Bocetos de personajes y pantallas
-
+ <img src="img/Characters.png" alt="BocetosPersonajes" width="400"> 
 Rúbrica — Imagen / Bocetos: interfaz de menú, pantallas y personajes.  
 Los bocetos de los personajes se encuentran en el apartado [4.2](https://github.com/MRTN0624/Neon-Racer/blob/main/READMEejemplo.md#42-personajes) y los de las pantallas en el apartado [7.1](https://github.com/MRTN0624/Neon-Racer/blob/main/READMEejemplo.md#71-pantallas).  
 ---
