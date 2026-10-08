@@ -5,7 +5,7 @@ Juego: Neon Racer
 Integrantes:
 - Javier Arcas Calvo        - j.arcas.2024@alumnos.urjc.es    - GitHub: https://github.com/nemsOmega
 - Martín Carmona Espartero  - m.carmona.2024@alumnos.urjc.es  - GitHub: https://github.com/MRTN0624
-- Adriel Navas De Santos    - a.nava.2024@alumnos.urjc.es     - GitHub: alumno3-ejemplo
+- Adriel Navas De Santos    - a.nava.2024@alumnos.urjc.es     - GitHub: https://github.com/Multiestar
 - Felipe Owen Zhu Zhang     - fo.zhu.2023@alumnos.urjc.es     - GitHub: alumno4-ejemplo
 
 Repositorio GitHub: https://github.com/<usuario>/<repositorio>
