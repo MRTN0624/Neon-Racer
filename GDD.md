@@ -31,7 +31,7 @@ Neon Racers es un juego de PVP para dos jugadores en el que los jugadores tienen
 * Característica diferencial 3: Power-Ups de eliminar trazas.  
 * Característica diferencial 4: Power-Ups de Congelar al otro jugador.
 
-<img src="img/Neon_Racer_Logo_Transparent.png" alt="Logotipo de Neon Racer" width="400">
+![][image1]  
 Figura 1\. Imagen promocional del juego.  
 ---
 
@@ -157,9 +157,10 @@ Rúbrica — Imagen / Descripción visual: uso de colores vibrantes junto a negr
 ![Paleta de colores]()  
 Figura 4\. Paleta de colores del juego.
 
-* Fondo (\#030504 ): Negro.  
+* Fondo (\#030504 ): Negro, con líneas rojas neón, azules neón y naranjas neón (según el mapa).  
 * Jugador 1 (\#00A3E0): Azul neón / Jugador 2 (\#FF073A): Rojo neón. Colores complementarios para distinguir fácilmente a cada jugador.  
-* Objetos (\#F5C518): AAA AAA AAA.
+* Trazas: Azul neón (jugador 1\) y rojo neón (jugador 2\)  
+* Objetos (\#F5C518): Velocidad: Amarillo neón. Inmortalidad: Gris neón. Eliminador de trazas: Verde neón. Congelación: Azul celeste neón. Traza aumentada: Rosa neón.
 
 ### 5.4. Aspectos técnicos: cámara y representación
 
@@ -176,7 +177,8 @@ Rúbrica — Imagen / Inspiración: referentes artísticos y culturales y víncu
 Figura 5\. Moodboard con las referencias visuales.
 
 * Tron Legacy (2010) (película): Ciencia ficción/Acción.  
-* Retro wave (referencia cultural): nostalgia de la cultura pop y la tecnología de los años 80\.
+* Retro wave (referencia cultural): nostalgia de la cultura pop y la tecnología de los años 80\.  
+* Tron (1982) (videojuego): Acción
 
 ### 5.6. Bocetos de personajes y pantallas
 
@@ -239,7 +241,7 @@ Rúbrica — Comunicación / Marketing.
 * Canales: Cuenta de Youtube, Instagram y X.  
 * Calendario: Devlog semanal en Youtube y posts cada 2 o 3 días en X e Instagram. Lanzamiento el 15 de abril de 2027\.  
 * Material: tráiler, capturas, GIF de jugabilidad, press kit.  
-* Eslogan: “Neon Racer, donde y cuando quieras”
+* Eslogan: “Neon Racer, donde y cuando quieras”.
 
 ---
 
