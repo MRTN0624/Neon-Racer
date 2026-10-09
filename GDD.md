@@ -136,8 +136,7 @@ En el Madrid distópico de 2043, el *Neon Circuit* de Gran Vía es el espectácu
 ## 5\. Imagen y diseño visual
 
 ### 5.1. Logotipo
-
-![][image1]  
+<img src="img/Neon_Racer_Logo_Transparent.png" alt="Logotipo de Neon Racers" width="400">    
 Figura 3\. Logotipo del juego. Tipografía: AAA. Concepto: AAA AAA AAA.
 
 ### 5.2. Estilo visual
@@ -147,7 +146,7 @@ El juego utiliza un estilo Retro Wave.
 
 ### 5.3. Uso de colores
 
-<img src="img/Paleta de color.jpg" alt="Logotipo de Neon Racers" width="400">  
+<img src="img/Paleta de color.jpg" alt="Paleta De Colores Neon Racers" width="400">  
 Figura 4\. Paleta de colores del juego.
 
 * Fondo (\#030504 ): Negro, con líneas rojas neón, azules neón y naranjas neón (según el mapa).  
