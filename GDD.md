@@ -163,7 +163,7 @@ Figura 4. Paleta de colores del juego.
 
 ### 5.5. Inspiración artística y cultural
 
-<img src="img/Moodboard.png" alt="Jugador 1 Diseño" width="400"> 
+<img src="img/MoodBoard.png" alt="Foto del moodboard general" width="400"> 
 Figura 5. Moodboard con las referencias visuales.
 
 * Tron Legacy (2010) (película): Ciencia ficción/Acción.
