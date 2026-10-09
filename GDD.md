@@ -166,18 +166,18 @@ Figura 4. Paleta de colores del juego.
 <img src="img/MoodBoard.png" alt="Foto del moodboard general" width="800"> 
 Figura 5. Moodboard con las referencias visuales.
 
-* Tron Legacy (2010) (película): Ciencia ficción/Acción.
- <img src="img/tronlegacy_lightcycle.jpg" alt="Tron Legacy foto" width="800">
- <img src="img/tronlegacy_lightcycle2.jpg" alt="Tron Legacy foto" width="800">
- <img src="img/tronlegacy_lightcyle1.jpg" alt="Tron Legacy foto" width="800">
-* Retro wave (referencia cultural): nostalgia de la cultura pop y la tecnología de los años 80\.
- <img src="img/synthwave_ocean.jpg" alt="Foto de un oceano estilo retro synthwave" width="800">
- <img src="img/dark_synthwave.jpg" alt="Foto estilo dark synthwave" width="800">
-* Tron (1982) (película): Acción
- <img src="img/tronOriginal.jpg" alt="Foto película tron 1982" width="800">
- <img src="img/tronOriginalMoviePoster.jpg" alt="Foto película tron 1982" width="800">
+- Tron Legacy (2010) (película): Ciencia ficción/Acción.
+  - <img src="img/tronlegacy_lightcycle.jpg" alt="Tron Legacy foto" width="800">
+  - <img src="img/tronlegacy_lightcycle2.jpg" alt="Tron Legacy foto" width="800">
+  - <img src="img/tronlegacy_lightcyle1.jpg" alt="Tron Legacy foto" width="800">
+- Retro wave (referencia cultural): nostalgia de la cultura pop y la tecnología de los años 80\.
+  - <img src="img/synthwave_ocean.jpg" alt="Foto de un oceano estilo retro synthwave" width="800">
+  - <img src="img/dark_synthwave.jpg" alt="Foto estilo dark synthwave" width="800">
+- Tron (1982) (película): Acción
+  - <img src="img/tronOriginal.jpg" alt="Foto película tron 1982" width="800">
+  - <img src="img/tronOriginalMoviePoster.jpg" alt="Foto película tron 1982" width="800">
 ### 5.6. Bocetos de personajes y pantallas
- <img src="img/Characters.jpg" alt="BocetosPersonajes" width="400"> 
+ <img src="img/Characters.jpg" alt="BocetosPersonajes" width="800"> 
 Los bocetos de los personajes se encuentran en el apartado [4.2](#42-personajes) y los de las pantallas en el apartado [7.1](#71-pantallas).  
 ---
 
