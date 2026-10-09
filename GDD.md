@@ -30,7 +30,7 @@ Neon Racers es un juego de PVP para dos jugadores en el que los jugadores tienen
 * Característica diferencial 4: Power-Ups de Congelar al otro jugador.
 
  <img src="img/Promotional_Image.jpg" alt="Imagen Promocional de Neon Racers" width="800" height = "600">  
-*Figura 1. Imagen promocional del juego.*  
+**Figura 1. Imagen promocional del juego.**  
 
 
 ## 2\. Especificaciones básicas
