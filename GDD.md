@@ -96,8 +96,8 @@ El juego contabiliza el número de partidas que ha ganado cada jugador. Este con
 
 El escenario representa un. Se compone de 3 zonas:
 
-1. Zona Roja: El fondo es negro con bordes rojos.  
-2. Zona Azul: El fondo es negro con bordes azules.  
+1. Zona Azul: El fondo es negro con bordes azules.
+2. Zona Roja: El fondo es negro con bordes rojos.  
 3. Zona Naranja: El fondo es negro con bordes naranjas.
 
 <img src="img/Maps/Mapa.jpg" alt="Mapa1" width="400"> 
