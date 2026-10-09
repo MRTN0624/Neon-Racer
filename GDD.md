@@ -147,7 +147,7 @@ El juego utiliza un estilo Retro Wave.
 ### 5.3. Uso de colores
 
 <img src="img/Paleta de color.jpg" alt="Paleta De Colores Neon Racers" width="400">  
-Figura 4\. Paleta de colores del juego.
+Figura 4. Paleta de colores del juego.
 
 * Fondo (\#030504 ): Negro, con líneas rojas neón, azules neón y naranjas neón (según el mapa).  
 * Jugador 1 (\#00A3E0): Azul neón / Jugador 2 (\#FF073A): Rojo neón. Colores complementarios para distinguir fácilmente a cada jugador.  
@@ -164,7 +164,7 @@ Figura 4\. Paleta de colores del juego.
 ### 5.5. Inspiración artística y cultural
 
 ![Moodboard de inspiración]()  
-Figura 5\. Moodboard con las referencias visuales.
+Figura 5. Moodboard con las referencias visuales.
 
 * Tron Legacy (2010) (película): Ciencia ficción/Acción.
  <img src="img/tronlegacy_lightcycle.jpg" alt="Tron Legacy foto" width="400">
