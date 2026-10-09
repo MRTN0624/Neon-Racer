@@ -101,8 +101,8 @@ El escenario representa un. Se compone de 3 zonas:
 3. Zona Naranja: El fondo es negro con bordes naranjas.
 
 <img src="img/Maps/Mapa.jpg" alt="Mapa1" width="400"> 
-<img src="img/Maps/Mapa2.jpg" alt="Mapa1" width="400"> 
-<img src="img/Maps/Mapa3.jpg" alt="Mapa1" width="400"> 
+<img src="img/Maps/Mapa2.jpg" alt="Mapa2" width="400"> 
+<img src="img/Maps/Mapa3.jpg" alt="Mapa3" width="400"> 
 Figura 2. Escenarios.
 
 ## 4\. Narrativa
@@ -115,7 +115,7 @@ En el Madrid distópico de 2043, el *Neon Circuit* de Gran Vía es el espectácu
 
 #### Carlos (Jugador 1\)
 
-![][image2]
+<img src="img/Characters/Character1.png" alt="Jugador 1 Diseño" width="400"> 
 
 * Edad y origen: 29 años. Francés con raíces alemanas.  
 * Personalidad: Narcisista, impulsivo y con un ego desproporcionado.  
@@ -124,7 +124,7 @@ En el Madrid distópico de 2043, el *Neon Circuit* de Gran Vía es el espectácu
 
 #### Javier (Jugador 2\)
 
-![][image3]
+<img src="img/Characters/Character2.jpg" alt="Jugador 2 Diseño" width="400"> 
 
 * Edad / origen: 33 años. Español con raíces nigerianas.  
 * Personalidad: Humilde, metódico y trabajador.  
