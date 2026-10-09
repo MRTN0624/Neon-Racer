@@ -103,7 +103,7 @@ El escenario representa un. Se compone de 3 zonas:
 <img src="img/Maps/Mapa.jpg" alt="Mapa1" width="400"> 
 <img src="img/Maps/Mapa2.jpg" alt="Mapa1" width="400"> 
 <img src="img/Maps/Mapa3.jpg" alt="Mapa1" width="400"> 
-Figura 2\. Mapa del escenario con zonas de aparición, plataformas y obstáculos.
+Figura 2. Mapa del escenario.
 
 ## 4\. Narrativa
 
