@@ -146,7 +146,7 @@ El juego utiliza un estilo Retro Wave.
 
 ### 5.3. Uso de colores
 
-![Paleta de colores]()  
+<img src="img/Paleta de color.jpg" alt="Logotipo de Neon Racers" width="400">  
 Figura 4\. Paleta de colores del juego.
 
 * Fondo (\#030504 ): Negro, con líneas rojas neón, azules neón y naranjas neón (según el mapa).  
