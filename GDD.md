@@ -227,6 +227,17 @@ Figura 8\. Pantalla de ajustes (izquierda) y fin de partida (derecha).
 
 ![Diagrama de flujo del juego]()  
 
+flowchart TD
+    A[Pantalla de carga] --> B[Menú principal]
+    B --> |Ajustes| D[Ajustes]
+    D --> |Volver| B
+    B --> |Créditos| E[Creditos]
+    E --> |Volver| B
+    B --> |Jugar| F[Partida]
+    F --> |Condición de derrota| G[Fin de Partida]
+    G --> |Volver a jugar| F
+    G --> |Volver al menú| B
+
 Figura 9\. Diagrama de flujo entre pantallas.  
 
 
