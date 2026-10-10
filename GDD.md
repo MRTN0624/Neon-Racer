@@ -22,14 +22,14 @@ Neon Racers es un juego de PVP para dos jugadores en el que los jugadores tienen
 
 ### 1.2. Propuesta de valor
 
-¿Qué hace diferente a vuestro juego? Nuestro juego se diferencia de otros por la inclusión de poderes o “power-ups” con distintos efectos.
+¿Qué hace diferente a nuestro juego? Nuestro juego se diferencia de otros por la inclusión de poderes o “power-ups” con distintos efectos.
 
 * Característica diferencial 1: Power-Ups de velocidad.  
 * Característica diferencial 2: Power-Ups de inmortalidad.  
 * Característica diferencial 3: Power-Ups de eliminar trazas.  
 * Característica diferencial 4: Power-Ups de Congelar al otro jugador.
 
- <img src="img/Promotional_Image.jpg" alt="Imagen Promocional de Neon Racers" width="800" height = "600">  
+ <img src="img/Promotional_Image1.png" alt="Imagen Promocional de Neon Racers" width="800" height = "600">  
 Figura 1. Imagen promocional del juego.
 
 
