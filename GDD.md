@@ -231,12 +231,12 @@ flowchart TD
     B --> |Ajustes| D[Ajustes]
     B --> |Ayuda| J[Ayuda]
     J --> |Volver| B
-    B --> |Créditos| E[Creditos]
+    B --> |Créditos| E[Créditos]
     E --> |Volver| B
     D --> |Volver| L{¿De donde vienes?}
     B --> |Jugar| F[Partida]
     F --> |Esc| K[Pausa]
-    K --> |Renaudar| F
+    K --> |Reanudar| F
     K --> |Ajustes| D
     K --> |Volver al menú| B
     L --> |Menú principal| B
