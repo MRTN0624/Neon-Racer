@@ -177,8 +177,11 @@ Figura 5. Moodboard con las referencias visuales.
    <img src="img/tronOriginal.jpg" alt="Foto película tron 1982" width="800">
    <img src="img/tronOriginalMoviePoster.jpg" alt="Foto película tron 1982" width="800">
 ### 5.6. Bocetos de personajes y pantallas
- <img src="img/Characters.jpg" alt="BocetosPersonajes" width="800"> 
-Los bocetos de los personajes se encuentran en el apartado [4.2](#42-personajes) y los de las pantallas en el apartado [7.1](#71-pantallas).  
+
+<img src="img/Characters.jpg" alt="BocetosPersonajes" width="800">
+
+Los bocetos de los personajes se encuentran en el apartado [4.2](#42-personajes) y los de las pantallas en el apartado [7.1](#71-pantallas).
+
 ---
 
 ## 6\. Sonido
