@@ -240,7 +240,7 @@ flowchart TD
     K --> |Ajustes| D
     K --> |Volver al menú| B
     L --> |Menú principal| B
-    L --> |Menú principal| K
+    L --> |Menú de pausa| K
     F --> |Condición de derrota| G[Fin de Partida]
     G --> |Volver a jugar| F
     G --> |Volver al menú| B
