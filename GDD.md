@@ -229,10 +229,18 @@ Figura 8\. Pantalla de ajustes (izquierda) y fin de partida (derecha).
 flowchart TD
     A[Pantalla de carga] --> B[Menú principal]
     B --> |Ajustes| D[Ajustes]
-    D --> |Volver| B
+    B --> |Ayuda| J[Ayuda]
+    J --> |Volver| B
     B --> |Créditos| E[Creditos]
     E --> |Volver| B
+    D --> |Volver| L{¿De donde vienes?}
     B --> |Jugar| F[Partida]
+    F --> |Esc| K[Pausa]
+    K --> |Renaudar| F
+    K --> |Ajustes| D
+    K --> |Volver al menú| B
+    L --> |Menú principal| B
+    L --> |Menú principal| K
     F --> |Condición de derrota| G[Fin de Partida]
     G --> |Volver a jugar| F
     G --> |Volver al menú| B
