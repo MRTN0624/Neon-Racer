@@ -209,13 +209,18 @@ Los bocetos de los personajes se encuentran en el apartado [4.2](#42-personajes)
 
 Menú principal  
 <img src="img/Menu_Principal.jpg" alt="MenuPrincipal" width="400">
+
 Figura 6\. Menú principal: Con boton de jugar y ajustes.  
+
 Pantalla de juego (HUD)  
 <img src="img/Interfaz.jpg" alt="HUD" width="400">
+
 Figura 7\. Pantalla de juego: Rondas y huecos para los power-ups.  
+
 Ajustes y fin de partida  
 <img src="img/Ajustes.jpg" alt="HUD" width="400">
 <img src="img/FinDePartida.jpg" alt="HUD" width="400">
+
 Figura 8\. Pantalla de ajustes (izquierda) y fin de partida (derecha).
 
 ### 7.2. Diagrama de flujo
