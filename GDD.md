@@ -225,8 +225,6 @@ Figura 8\. Pantalla de ajustes (izquierda) y fin de partida (derecha).
 
 ### 7.2. Diagrama de flujo
 
-![Diagrama de flujo del juego]()  
-
 ```mermaid
 flowchart TD
     A[Pantalla de carga] --> B[Menú principal]
