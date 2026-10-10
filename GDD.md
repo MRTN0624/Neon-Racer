@@ -227,6 +227,7 @@ Figura 8\. Pantalla de ajustes (izquierda) y fin de partida (derecha).
 
 ![Diagrama de flujo del juego]()  
 
+```mermaid
 flowchart TD
     A[Pantalla de carga] --> B[Menú principal]
     B --> |Ajustes| D[Ajustes]
@@ -237,6 +238,7 @@ flowchart TD
     F --> |Condición de derrota| G[Fin de Partida]
     G --> |Volver a jugar| F
     G --> |Volver al menú| B
+```
 
 Figura 9\. Diagrama de flujo entre pantallas.  
 
